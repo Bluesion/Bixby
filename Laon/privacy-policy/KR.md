@@ -1,4 +1,4 @@
-![](art/Laon.png)
+![](art/icon_laon.png)
 
 # 요약
 라온은 사용자의 발화 정보를 수집합니다.<br/>

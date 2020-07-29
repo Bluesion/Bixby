@@ -1,4 +1,4 @@
-![](art/FLEX.png)
+![](art/icon_flex.png)
 
 # 요약
 FLEX는 사용자의 발화 정보를 수집합니다.<br/>
